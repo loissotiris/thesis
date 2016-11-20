@@ -1,4 +1,17 @@
 
+/**
+ * Foundation for Sites by ZURB
+ * Version 6.1.2
+ * foundation.zurb.com
+ * Licensed under MIT Open Source
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/**
+   * 1. Set default font family to sans-serif.
+   * 2. Prevent iOS and IE text size adjust after device orientation change,
+   *    without disabling user zoom.
+   */
+
 html {
   font-family: sans-serif;
   /* 1 */
@@ -3363,7 +3376,7 @@ table.names {
     #SSLIPSEC .center h2 {
       font-size: 40px; }
     #SSLIPSEC .center li {
-      font-size: 30px; }
+      font-size: 20px; }
 
 #thanks {
   padding: 50px; }
@@ -3371,6 +3384,10 @@ table.names {
     font-size: 40px;
     margin-top: 180px;
     margin-bottom: 40px; }
+
+.bullets {
+  padding: 3em;
+  font-size: 1.5em; }
 /*
 
 
